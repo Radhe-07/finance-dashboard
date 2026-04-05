@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+
+# Prisma generated client
+node_modules/.prisma/
+
+
+# Build output
+dist/
+build/
